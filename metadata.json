@@ -1,0 +1,5 @@
+{
+  "name": "台北市預售-實價登錄",
+  "description": "A real-time dashboard for monitoring and analyzing Taipei's pre-sale housing market data using government open data and AI analysis.",
+  "requestFramePermissions": []
+}
